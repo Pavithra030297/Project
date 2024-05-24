@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.090415">
+    <testcase classname="To Validate Add To Cart Feature" name="To validate adding and removing products in add to cart" time="0.090415">
+        <skipped>
+            <![CDATA[Given User has to launch the browser and flipkart application...............undefined
+When User has to search the product through search box......................undefined
+And User has to select and adding product into cart.........................undefined
+And User has to place order and login to the application....................undefined
+And User has to selecting address and payment option........................undefined
+And User has to remove the product from the cart............................undefined
+Then User has to close the browser..........................................undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>
